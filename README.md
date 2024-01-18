@@ -1,5 +1,4 @@
 ---
-layout: post
 title: This is set as the document title.
 ---
 
